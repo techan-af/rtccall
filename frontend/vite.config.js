@@ -11,4 +11,5 @@ export default defineConfig({
       "4aa9-2409-40c2-105a-6309-cd79-ab80-1f3f-2258.ngrok-free.app" // Add your ngrok domain here
     ]
   }
+
 });
